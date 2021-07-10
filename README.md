@@ -14,7 +14,7 @@ Modularizar en funciones, archivos y capas, un proyecto de controlador de leds. 
 ###### Funciones de modularización
 | File name | hearders                    |
 | ------------- | ------------------------------ |
-| `ejercicio2.c`      | `ejercicio2.h`     |
+| [ejercicio2.c](https://github.com/martinjrios/Practica2/blob/main/src/ejercicio2.c)     | `ejercicio2.h`     |
 | `secuencia.c`      | `secuencia.h`     |
 | `leds.c`      | `leds.h`     |
 | `teclas.c`      | `teclas.h`     |
