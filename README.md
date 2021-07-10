@@ -11,12 +11,13 @@ Cohorte 15va
 ## Resumen
 ### Condiciones de funcionamiento
 ### Modularización de funcionamiento
+
 ##Headers (Underline)
 
 ##Resumen
 Modularizar en funciones, archivos y capas, un proyecto de controlador de leds. Implementar un programa que controle la lógica de funcionamiento de una secuencia arbitraria de LEDs de la EDU-CIAA-NXP.
 ###Condiciones de funcionamiento
- ####Dependencias externas:
+####Dependencias externas:
  - sAPI.h;
  - Usar delay no bloqueantes;
 
